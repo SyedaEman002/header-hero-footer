@@ -13,7 +13,7 @@ export default function Footer(){
         Footer
       </Link>
      </nav>
-     <footer className="absolute bottom-0 w-full text-white text-center py-4 text-8xl font-bold">
+     <footer className="absolute bottom-0 w-full text-white text-center py-4 text-[38px] font-bold">
       This is Footer Section...
     </footer>
       

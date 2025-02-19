@@ -12,7 +12,9 @@ export default function Hero(){
       <Link href="/Footer" className="hover:text-slate-50 text-[24px]">
         Footer
       </Link>
-      <h1 className="text-slate-50 font-bold text-8xl p-[300px] px-[338px]">This is Hero Section...</h1>
+      <section className="flex items-center justify-center text-white text-[38px] font-bold p-[248px]">
+      This is Hero Section...
+    </section>
      </nav>
 
         </div>

@@ -13,7 +13,7 @@ export default function Home(){
         Footer
       </Link>
      </nav>
-      <h1 className="text-slate-50 text-8xl justify-center font-bold px-[384px]">This is Header Section..</h1>
+      <h1 className="text-slate-50 text-[38px] flex justify-center font-bold">This is Header Section..</h1>
     </div>
   )
 }
